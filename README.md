@@ -84,3 +84,17 @@ Overall, the project demonstrates the use of Python libraries to convert raw e-c
 **Project Type:** Data Analysis
 
 **Status:** Completed
+
+## Project Visualizations
+
+### 1. Top 10 Product Categories by Sales
+
+![Top Categories](Top%2010%20products%20catagories%20by%20sale.png)
+
+### 2. Monthly Sales Trend
+
+![Monthly Sales](Monthly%20Sales%20Trend.png)
+
+### 3. Orders by Payment Method
+
+![Payment Method](Order%20by%20payment%20method.png)
